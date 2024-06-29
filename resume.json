@@ -1,0 +1,176 @@
+{
+  "basics": {
+    "name": "Robin Karmakar",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "Karmakar.robin93@gmail.com",
+    "phone": "(555) 555-5555",
+    "website": "https://github.com/robinkarmaka1993",
+    "summary": "Experienced software engineer with expertise in Java, Python, and cloud technologies. Skilled in developing enterprise applications, blockchain, and microservices.",
+    "location": {
+      "address": "123 Main St",
+      "postalCode": "12345",
+      "city": "New York",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "robin-karmakar",
+        "url": "www.linkedin.com/in/robin-karmakar"
+      },
+      {
+        "network": "GitHub",
+        "username": "robinkarmaka1993",
+        "url": "https://github.com/robinkarmaka1993"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "J & J Staffing",
+      "position": "Computer Programmer",
+      "website": "https://jjstaff.com",
+      "startDate": "2023-09-01",
+      "endDate": "2023-10-31",
+      "summary": "Client Services deployed at HESAA",
+      "highlights": [
+        "Developed Data Flow Diagrams for business/IT processes",
+        "Maintained Access database and modified VBA scripts",
+        "Created testing regions and normalized data"
+      ]
+    },
+    {
+      "company": "InfoSys Limited",
+      "position": "Software Engineer",
+      "website": "https://www.infosys.com",
+      "startDate": "2021-10-01",
+      "endDate": "2022-06-30",
+      "summary": "Worked on enterprise application development and DevOps projects",
+      "highlights": [
+        "Learned Dot Net and full deployment of enterprise applications",
+        "Gained experience in Java and .NET in Microsoft Visual Studio Code",
+        "Contributed to UI framework improvements in the QAUTO project"
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services Limited",
+      "position": "Software Engineer",
+      "website": "https://www.tcs.com",
+      "startDate": "2017-09-01",
+      "endDate": "2018-08-31",
+      "summary": "Assisted in blockchain project development and inventory management system",
+      "highlights": [
+        "Redesigned existing product using blockchain hyperledger fabric on docker containers in AWS",
+        "Worked on IWS – Inventory Warehousing Solutions project creation and testing",
+        "Implemented CI/CD pipeline using Jenkins",
+        "Created documentation of coding standards and best practices"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "New Jersey Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "Master's",
+      "startDate": "2018-09-01",
+      "endDate": "2020-05-31",
+      "gpa": "3.8",
+      "courses": [
+        "Advanced Algorithms",
+        "Machine Learning",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "institution": "Rutgers University",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Bachelor's",
+      "startDate": "2011-09-01",
+      "endDate": "2015-05-31",
+      "gpa": "3.5",
+      "courses": [
+        "Data Structures",
+        "Computer Architecture",
+        "Operating Systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": ["Java", "Python", "C++", "C#", "TypeScript", "JavaScript"]
+    },
+    {
+      "name": "Web Technologies",
+      "level": "Advanced",
+      "keywords": ["AngularJS", "HTML", "CSS", "Node.js", "REST", "SOAP"]
+    },
+    {
+      "name": "Cloud Technologies",
+      "level": "Intermediate",
+      "keywords": ["Azure", "AWS", "Docker", "Kubernetes"]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": ["SQL", "MongoDB", "CosmosDB"]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": ["Jenkins", "Git", "JIRA", "Maven", "CI/CD"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Blockchain",
+      "keywords": ["Cryptocurrency", "Smart Contracts", "Decentralized Applications"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["Neural Networks", "Natural Language Processing", "Computer Vision"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Satheesh Mani",
+      "reference": "Robin is a very hard worker. He has the capabilities of getting his work done on-time"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS – Cloud Practitioner",
+      "date": "2023-01-01",
+      "awarder": "Amazon Web Services",
+      "summary": "Certification for foundational understanding of AWS Cloud services"
+    },
+    {
+      "title": "Azure – 900 Fundamentals",
+      "date": "2023-03-01",
+      "awarder": "Microsoft",
+      "summary": "Certification demonstrating foundational knowledge of cloud services and Azure"
+    },
+    {
+      "title": "Azure -204 Azure DevOps Associate",
+      "date": "2023-06-01",
+      "awarder": "Microsoft",
+      "summary": "Certification for implementing DevOps practices on Microsoft Azure"
+    }
+  ],
+  "meta": {
+    "theme": "ricksbore"
+  }
+}
